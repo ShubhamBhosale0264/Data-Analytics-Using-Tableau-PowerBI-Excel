@@ -1,4 +1,4 @@
-🚗 Automotive Spending Dashboard
+## 🚗 Automotive Spending Dashboard
 An In-Depth Departmental Analysis Using Power BI
 
 📌 Problem Statement
@@ -65,22 +65,36 @@ This dashboard was designed to uncover:
 - Purchase value is declining over quarters, indicating possible price sensitivity or reduced basket size.
 - Beauty products lead in quantity sold, suggesting strong demand and potential for bundling or loyalty offers.
 
-📂 How to Use
-- Open the Power BI dashboard.
-- Use Product Category, Gender, and Quantity slicers to filter views.
-- Hover over charts for detailed tooltips.
-- Export visuals or summaries for reporting or presentations.
+Here’s a professional, human-toned README for your Sales Performance Analysis Dashboard—ideal for GitHub, portfolio, or interview presentation:
 
-📈 Future Enhancements
-- Add customer lifetime value (CLV) tracking
-- Integrate store location data for geo-analysis
-- Include discount impact analysis on purchase behavior
-- Enable predictive modeling for seasonal demand
+## 📈 Sales Performance Analysis Dashboard
+Multi-Year, Multi-Dimensional Sales Insights Using Power BI
 
-🙌 Author
-Shubham Bhosale
-Data Analyst | Navi Mumbai
-GitHub: ShubhamBhosale0264
-LinkedIn: Shubham.Bhosale.45
+📌 Problem Statement
+In large retail or B2B environments, sales data is often fragmented across categories, time periods, and customer demographics. Without a centralized, visual analysis, decision-makers struggle to identify trends, optimize product strategies, and understand revenue drivers.
+This dashboard was built to answer:
+- Which product categories and sub-categories generate the most revenue?
+- How do sales trends evolve across months and years?
+- What is the revenue distribution by gender?
+- Which sub-categories are consistently high-performing?
 
-Would you like help turning this into a case study PDF, adding visuals to your GitHub, or scripting a dashboard walkthrough video? I can also help you build a retail analytics portfolio page.
+🎯 Objectives
+- Visualize sales distribution across categories and sub-categories
+- Track monthly and yearly sales trends
+- Analyze gender-based revenue contribution
+- Identify top-performing products and seasonal patterns
+- Enable filtering by year and product category for dynamic insights
+
+🛠️ Tools & Technologies
+- Power BI: Data modeling, DAX measures, interactive visuals
+- Power Query: Data cleaning and transformation
+- Excel: Initial data prep and validation
+- Slicers & Filters: Product Category, Year
+
+
+🧠 Insights & Impact
+- Technology leads in revenue, followed by Furniture and Office Supplies.
+- Phones and Chairs are top-performing sub-categories.
+- Female customers contribute slightly more revenue than male customers.
+- Sales peaked in 2016, with a slight dip in 2017—indicating potential market saturation or pricing issues.
+- Seasonal spikes in Q4 suggest strong year-end buying behavior.
