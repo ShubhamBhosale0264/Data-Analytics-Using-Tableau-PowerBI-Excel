@@ -98,3 +98,42 @@ This dashboard was built to answer:
 - Female customers contribute slightly more revenue than male customers.
 - Sales peaked in 2016, with a slight dip in 2017—indicating potential market saturation or pricing issues.
 - Seasonal spikes in Q4 suggest strong year-end buying behavior.
+## 📱 Social Media Analytics Dashboard
+Understanding Your Audience Through Engagement Metrics
+
+📌 Problem Statement
+In the age of digital marketing, brands and content creators need more than just likes—they need to understand who is engaging, what drives interaction, and where their audience is most active. This dashboard was designed to uncover patterns in social media engagement across demographics, interests, and geographies.
+It answers questions like:
+- Which hobbies generate the most likes, shares, and comments?
+- How do video views vary by profession?
+- What’s the gender breakdown of engagement?
+- Which countries contribute most to content sharing?
+
+🎯 Objectives
+- Analyze engagement metrics (likes, shares, comments, video views)
+- Segment audience by gender, age, hobby, profession, and country
+- Identify high-performing content themes
+- Support targeted marketing and content strategy decisions
+
+🛠️ Tools & Technologies
+- Power BI: Data modeling, DAX measures, interactive visuals
+- Power Query: Data cleaning and transformation
+- Excel: Initial data prep and validation
+- Custom Legends & Icons: For intuitive segmentation
+
+
+🧠 Insights & Impact
+- Cooking is the most engaging hobby across all metrics—ideal for influencer partnerships or recipe content.
+- Doctors lead in video views, suggesting strong interest in health-related content.
+- Female users contribute the highest number of likes—valuable for gender-targeted campaigns.
+- USA dominates in content sharing, followed by India and Canada.
+- Age group 21–30 is the most active, making it a prime target for engagement strategies.
+
+📂 How to Use
+- Open the Power BI dashboard.
+- Use slicers to filter by gender, hobby, profession, or country.
+- Hover over charts for detailed tooltips.
+- Export visuals or summaries for campaign planning or reporting.
+
+
+
